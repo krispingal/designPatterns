@@ -17,6 +17,7 @@ class Omelette:
     def print(self):
         print(f'Omelette has cheese: {self.cheese}, fillings: {",".join(self.fillings)}, and the following herbs: {",".join(self.herbs)}')
 
+
 class OmeletteBuilder:
     """Build any valid omelette, that is custom to your wants."""
     def __init__(self):
