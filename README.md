@@ -10,6 +10,7 @@ This group of design patterns are used to create objects.
 ## Behavioral pattern
 
 1. [Iterator Pattern](https://github.com/krispingal/designPatterns/blob/main/linkedListIterator.py)
+1. [Observer Pattern](https://github.com/krispingal/designPatterns/blob/main/mailingListObserver.py)
 
 ## Structural patterns
 1. [Decorator pattern](https://github.com/krispingal/designPatterns/blob/main/loggerDecorator.py)
