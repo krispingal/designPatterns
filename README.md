@@ -13,6 +13,7 @@ This group of design patterns are used to create objects.
 1. [Iterator Pattern](https://github.com/krispingal/designPatterns/blob/main/linkedListIterator.py)
 1. [Observer Pattern](https://github.com/krispingal/designPatterns/blob/main/mailingListObserver.py)
 2. [Strategy Pattern](https://github.com/krispingal/designPatterns/blob/main/distanceStrategy.py)
+3. [Bridge Pattern](https://github.com/krispingal/designPatterns/blob/main/paymentBridge.py)
 
 ## Structural patterns
 1. [Decorator pattern](https://github.com/krispingal/designPatterns/blob/main/loggerDecorator.py)
