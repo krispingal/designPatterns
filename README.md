@@ -17,4 +17,5 @@ This group of design patterns are used to create objects.
 
 ## Structural patterns
 1. [Decorator pattern](https://github.com/krispingal/designPatterns/blob/main/loggerDecorator.py)
+2. [Command pattern](https://github.com/krispingal/designPatterns/blob/main/routePlannerCommand.py)
 
