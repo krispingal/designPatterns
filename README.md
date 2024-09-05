@@ -16,6 +16,6 @@ This group of design patterns are used to create objects.
 3. [Bridge Pattern](https://github.com/krispingal/designPatterns/blob/main/paymentBridge.py)
 
 ## Structural patterns
-1. [Decorator pattern](https://github.com/krispingal/designPatterns/blob/main/loggerDecorator.py)
+1. [Decorator pattern](https://github.com/krispingal/designPatterns/blob/main/sandwichDecorator.py) - another [example](https://github.com/krispingal/designPatterns/blob/main/loggerDecorator.py)
 2. [Command pattern](https://github.com/krispingal/designPatterns/blob/main/routePlannerCommand.py)
 
