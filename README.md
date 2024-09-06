@@ -7,6 +7,7 @@ This group of design patterns are used to create objects.
 1. [Factory Pattern](https://github.com/krispingal/designPatterns/blob/main/biriyaniFactory.py)
 2. [Builder Pattern](https://github.com/krispingal/designPatterns/blob/main/omeletteBuilder.py)
 3. [Abstract Pattern](https://github.com/krispingal/designPatterns/blob/main/queueAbstract.py)
+4. [Singleton Pattern](https://github.com/krispingal/designPatterns/blob/main/cacheSingleton.py)
 
 ## Behavioral pattern
 
